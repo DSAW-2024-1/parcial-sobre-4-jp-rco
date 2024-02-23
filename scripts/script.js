@@ -18,8 +18,8 @@ function addMail(event) {
       emailInput.style.color = '';
 
       if (window.location.pathname.includes('index.html')) {
-        window.location.href = 'https://jp-rco.github.io/page/?email=' + encodeURIComponent(email);
-      } else if (window.location.pathname.includes('https://jp-rco.github.io/page/')) {
+        window.location.href = './../segunda.html?email=' + encodeURIComponent(email);
+      } else if (window.location.pathname.includes('./../segunda.html')) {
         const emailDisplay = document.getElementById('emailDisplay');
         if (emailDisplay) {
           emailDisplay.textContent = email || 'Correo no proporcionado';
