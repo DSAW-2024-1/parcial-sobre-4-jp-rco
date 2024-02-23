@@ -18,7 +18,7 @@ function addMail(event) {
       emailInput.style.color = '';
 
       if (window.location.pathname.includes('index.html')) {
-        window.location.href = 'segunda.html?email=' + encodeURIComponent(email);
+        window.location.href = './segunda.html?email=' + encodeURIComponent(email);
       } else if (window.location.pathname.includes('segunda.html')) {
         const emailDisplay = document.getElementById('emailDisplay');
         if (emailDisplay) {
