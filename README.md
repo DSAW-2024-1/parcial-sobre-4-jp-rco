@@ -29,7 +29,10 @@ Requerimientos:
 
 | Criterio                   | Puntaje |
 | -------------------------- | ------- |
-| Diseño Responsive          | 2       |
-| HTML Semántico             | 1       |
-| Funcionalidad              | 1.5     |
-| Despliegue en Github Pages | 0.5     |
+| Diseño Responsive          | 1/2       |
+| HTML Semántico             | 1/1       |
+| Funcionalidad              | 0.5/1.5     |
+| Despliegue en Github Pages | 0.5/0.5     |
+
+Nota parcial: 3 x 0.8 -> 2.4
+![image](https://github.com/DSAW-2024-1/parcial-sobre-4-jp-rco/assets/50994778/56dda19b-36c1-4601-9839-718f087a36dc)
